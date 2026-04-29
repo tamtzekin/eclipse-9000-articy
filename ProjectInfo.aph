@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>33B12A52AB3359F81736CD97E843B5C2E70C257FFA455DFC0279388AF766B3D8</Signature>
+  <Content>
+    <Project Guid="703c935d-acd9-4300-9847-a37f9a99df48">
+      <DisplayName Value="ECLIPSE 9000"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="3f90b061-0264-4ca8-91ec-6f20d6d4daeb"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="639111771042676950"/>
+      <PartitionHash Value="DE012484B2342A95AA863273A9C1D2ADD5DD0F1EEAABB0CE10B98A6F6EBD6061"/>
+      <SaveFileVersion Value="60"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
