@@ -1,1 +1,14 @@
-<ExportPresets LastType=""/>
+<ExportPresets LastType="UnrealExport">
+  <Preset DisplayName="" Type="UnrealExport">
+    <ExportSettings Type="UnrealExport">
+      <Filename>Y:\Documents\ECLIPSE 9000.articyue</Filename>
+      <CustomSettings>
+        <Option Name="set_TextFormatter" Value="Unity"/>
+        <Option Name="set_IncludingAssets" Value="True"/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets, Languages"/>
+      </CustomSettings>
+      <PackageStates/>
+      <SelectedRuleSet>72057594037928206</SelectedRuleSet>
+    </ExportSettings>
+  </Preset>
+</ExportPresets>
